@@ -1,5 +1,7 @@
 ## DETAILED WEEK-BY-WEEK SYLLABUS
 
+Here you will find the detailed weekly schedule and themes of the course. This proposed schedule is indicative and may be refined based on instructional needs and pacing.
+
 ### Week 1: Foundations – Debugging & Lab Environment
 
 #### Workshop 1.1: RE Track – x64dbg Debugger for Beginners
