@@ -51,5 +51,5 @@ Upon successful completion of this bootcamp, students will receive a certificate
 
 | Day | Activity | Duration |
 | :--- | :--- | :--- |
-| **Tuesday (or Saturday)** | Workshop 1 (RE Track) – Live session | 2 hours |
-| **Thursday (or Sunday)**| Workshop 2 (MA Track) – Live session | 2 hours |
+| **TBD** | Workshop 1 (RE Track) – Live session | 2 hours |
+| **TBD**| Workshop 2 (MA Track) – Live session | 2 hours |
